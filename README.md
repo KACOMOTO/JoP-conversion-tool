@@ -1,3 +1,19 @@
+# JoP Conversion Tool
+
+**JoP Conversion Tool** is a standalone utility for the Minecraft mod [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting).
+
+This tool allows you to convert PNG images into `.paint` files that can be imported as in-game paintings using the `/paintingimport` command.
+
+To use it, simply **download the `.exe` file and run it** — no installation or Python required.
+
+The tool provides:
+- Export of single or split paintings
+- Automatic tiling and canvas fitting
+- Visual interface for canvas size and layout
+- Fully self-contained executable
+
+Paintings exported with this utility can be placed in your Minecraft world using the mod.
+
 ## 🖥 How to Use
 
 1. **Launch** the tool (no installation required)
