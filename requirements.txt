@@ -1,0 +1,4 @@
+enbtlib==1.12.1
+pillow==10.3.0
+numpy
+pyinstaller==6.10.0
